@@ -33,9 +33,9 @@
     "through": "^2.3.4",
     "through2": "^0.4.1",
     "through2-map": "^1.2.1",
-    "workshopper": "https://github.com/martinheidegger/workshopper.git#a256f246bb36a8833316f1047741be4fe2fe2fd4",
+    "workshopper": "git://github.com/martinheidegger/workshopper.git#a256f246bb36a8833316f1047741be4fe2fe2fd4",
     "workshopper-boilerplate": "0.0.1",
-    "workshopper-exercise": "https://github.com/martinheidegger/workshopper-exercise.git#b5ac012bcfa7db43318e6addc3f479f70c261bdc",
+    "workshopper-exercise": "git://github.com/martinheidegger/workshopper-exercise.git#b5ac012bcfa7db43318e6addc3f479f70c261bdc",
     "workshopper-wrappedexec": "^0.1.1"
   },
   "bin": {
