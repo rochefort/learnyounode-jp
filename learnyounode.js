@@ -7,7 +7,7 @@ const workshopper = require('workshopper')
 
     , name        = 'learnyounode'
     , title       = 'Node.jsを学んで豊かな人生を！'
-    , subtitle    = '\x1b[23m問題を選んで \x1b[3mEnter\x1b[23m 押してスタートお願いします：'
+    , subtitle    = '\x1b[23m問題を選んで \x1b[3mEnter\x1b[23m キーを押してスタートしてください：'
 
 
 function fpath (f) {
